@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\6. Equality Logic\bin\Debug\net6.0\6. Equality Logic.exe
+C:\Users\User\source\repos\6. Equality Logic\bin\Debug\net6.0\6. Equality Logic.deps.json
+C:\Users\User\source\repos\6. Equality Logic\bin\Debug\net6.0\6. Equality Logic.runtimeconfig.json
+C:\Users\User\source\repos\6. Equality Logic\bin\Debug\net6.0\6. Equality Logic.dll
+C:\Users\User\source\repos\6. Equality Logic\bin\Debug\net6.0\ref\6. Equality Logic.dll
+C:\Users\User\source\repos\6. Equality Logic\bin\Debug\net6.0\6. Equality Logic.pdb
+C:\Users\User\source\repos\6. Equality Logic\obj\Debug\net6.0\6. Equality Logic.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\6. Equality Logic\obj\Debug\net6.0\6. Equality Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\6. Equality Logic\obj\Debug\net6.0\6. Equality Logic.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\6. Equality Logic\obj\Debug\net6.0\6. Equality Logic.AssemblyInfo.cs
+C:\Users\User\source\repos\6. Equality Logic\obj\Debug\net6.0\6. Equality Logic.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\6. Equality Logic\obj\Debug\net6.0\6. Equality Logic.dll
+C:\Users\User\source\repos\6. Equality Logic\obj\Debug\net6.0\ref\6. Equality Logic.dll
+C:\Users\User\source\repos\6. Equality Logic\obj\Debug\net6.0\6. Equality Logic.pdb
+C:\Users\User\source\repos\6. Equality Logic\obj\Debug\net6.0\6. Equality Logic.genruntimeconfig.cache
